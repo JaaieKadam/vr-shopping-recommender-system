@@ -18,7 +18,7 @@ A virtual reality–based shopping prototype built using Unity, designed to simu
 This project resulted in the following published paper:
 
 **“Virtual Reality Shopping System” – Published at ICCIS 2021**
-
+📄 Research Paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096403
 PDF available inside the `docs/` folder.
 
 The research covers:
